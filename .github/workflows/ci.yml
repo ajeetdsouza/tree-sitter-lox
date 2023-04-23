@@ -11,9 +11,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Install tree-sitter-cli
-        uses: actions-rs/cargo@v1
+        uses: taiki-e/install-action@v2
         with:
-          command: install
-          args: tree-sitter-cli
+          tool: tree-sitter-cli
       - name: Run tree-sitter tests
         run: tree-sitter test
