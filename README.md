@@ -7,7 +7,7 @@
 
 # tree-sitter-lox
 
-![Crates.io](https://img.shields.io/crates/v/tree-sitter-lox)
+[![crates.io](https://img.shields.io/crates/v/tree-sitter-lox)](https://crates.io/crates/tree-sitter-lox)
 
 A **[Lox](https://craftinginterpreters.com/) grammar** for the
 **[tree-sitter](https://github.com/tree-sitter/tree-sitter) parsing library**.
