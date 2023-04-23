@@ -1,7 +1,18 @@
+<!-- markdownlint-configure-file {
+  "MD033": false,
+  "MD041": false
+} -->
+
+<div align="center">
+
 # tree-sitter-lox
 
-[Lox](https://craftinginterpreters.com/) grammar for
-[tree-sitter](https://github.com/tree-sitter/tree-sitter).
+![Crates.io](https://img.shields.io/crates/v/tree-sitter-lox)
+
+A **[Lox](https://craftinginterpreters.com/) grammar** for the
+**[tree-sitter](https://github.com/tree-sitter/tree-sitter) parsing library**.
+
+</div>
 
 ## Local setup
 
